@@ -1,2 +1,7 @@
 # hello-world
-To learn how to use GitHub
+
+Hello Everybody!
+Just trying to learn how to use GitHub! 
+Glad to join.
+
+
